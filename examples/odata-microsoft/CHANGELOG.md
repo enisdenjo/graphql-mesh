@@ -1,5 +1,12 @@
 # odata-microsoft-graph-example
 
+## 0.6.275
+
+### Patch Changes
+
+- Updated dependencies [[`6d40631b2`](https://github.com/Urigo/graphql-mesh/commit/6d40631b23c8d7702f2079ccfbc475a69c336ef6)]:
+  - @graphql-mesh/odata@0.20.21
+
 ## 0.6.274
 
 ### Patch Changes
